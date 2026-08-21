@@ -1,0 +1,12 @@
+// PHP Variables
+// $ = variable
+// Contoh:
+$name = "Irsyad";
+$age = 20;
+
+// Paparkan variable
+echo $name;
+echo $age;
+
+// Gabung text + variable
+echo "My name is " . $name;

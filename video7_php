@@ -1,0 +1,16 @@
+// PHP Increment & Decrement
+
+// ++ = tambah 1
+$count++;
+
+// -- = tolak 1
+$count--;
+
+// Contoh:
+$count = 5;
+
+$count++;
+echo $count; // 6
+
+$count--;
+echo $count; // 5

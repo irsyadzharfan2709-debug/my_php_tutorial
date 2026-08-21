@@ -1,0 +1,19 @@
+// PHP Data Types
+
+// String = text
+$name = "Irsyad";
+
+// Integer = nombor bulat
+$age = 20;
+
+// Float = nombor perpuluhan
+$price = 10.50;
+
+// Boolean = true / false
+$isStudent = true;
+
+// Array = simpan banyak data
+$fruits = ["Apple", "Mango", "Orange"];
+
+// NULL = tiada nilai
+$data = null;

@@ -1,0 +1,10 @@
+// PHP Comparison Operators
+
+// == sama nilai
+// === sama nilai & jenis data
+// != tidak sama
+// !== tidak sama nilai/jenis
+// > lebih besar
+// < lebih kecil //>= lebih besar/sama
+    // <= lebih kecil/sama // Contoh: $age=20; var_dump($age==20); // true var_dump($age> 18); // true
+        var_dump($age < 18); // false

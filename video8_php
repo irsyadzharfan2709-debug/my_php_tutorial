@@ -1,0 +1,17 @@
+// PHP Assignment Operators
+
+// = assign value
+// += tambah
+// -= tolak
+// *= darab
+// /= bahagi
+// %= baki
+
+// Contoh:
+$x = 10;
+
+$x += 5; // 15
+$x -= 2; // 13
+$x *= 2; // 26
+$x /= 2; // 13
+$x %= 5; // 3

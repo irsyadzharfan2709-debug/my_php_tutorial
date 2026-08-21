@@ -1,0 +1,15 @@
+// PHP file guna .php
+// Contoh: index.php
+
+// Start PHP
+<?php
+
+// echo = display text
+echo "Hello World";
+
+// PHP boleh gabung dengan HTML
+?>
+<h1>Hello</h1>
+
+// Simpan dalam htdocs
+// Buka: localhost/index.php

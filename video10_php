@@ -1,0 +1,13 @@
+// PHP Logical Operators
+
+// && = AND
+// || = OR
+// ! = NOT
+
+// Contoh:
+$age = 20;
+$student = true;
+
+var_dump($age >= 18 && $student); // true
+var_dump($age >= 18 || $student); // true
+var_dump(!$student); // false
